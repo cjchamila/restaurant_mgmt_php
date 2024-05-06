@@ -1,0 +1,41 @@
+body {
+    font-family: verdana;
+    background-color: lightblue;
+}
+
+.page-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.page-links {
+    display: flex;
+    justify-content: center;
+}
+.page-links ul li {
+    margin-bottom: 10px;
+    text-align: center; 
+}
+
+.page-links ul li a {
+    display: inline-block;    
+    color: blue;     
+    background-color: lightblue;;
+    font-size: 18px; 
+    font-weight: bold; 
+    }
+
+.page-links ul li a:hover {
+    background-color: #ddd;
+    color: orange; 
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}

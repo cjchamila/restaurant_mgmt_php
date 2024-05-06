@@ -1,0 +1,110 @@
+
+	body {
+  font-family: verdana;
+  background-color: lightblue;
+}
+
+div.customer_info_div {
+
+  background-color: white;
+  width: 380px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: blue;
+  padding: 30px;
+  margin: auto; /*center the margin horizontally*/
+}
+
+div.flex-container  {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+h1 {  
+  color: blue;
+  text-align: center;
+}
+
+h2{  
+  font-size: 20px;
+  text-align:center;
+  color: blue;
+}
+input[type=text],input[type=datetime-local] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+label{ 
+  font-size: 15px;
+}
+
+.submitbtn {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 18px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 6px 2px;
+  cursor: pointer;
+}
+
+.cancelbtn {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 18px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 6px 2px;
+  cursor: pointer;
+}
+
+
+#res_msg {
+  margin:auto;
+  text-align:center;
+}
+
+small {
+  color:green;
+  font-weight:bold;
+}
+
+.error{
+  display: none;
+}
+
+.reg_error{
+  display: block;
+  color:red;
+  font-size: small;
+  font-weight: bold;
+}
+
+.invalid .error{
+  display: block;
+    color:red;
+    font-size: small;
+    font-weight: bold;
+}
+
+.unauthorized{
+  color: red;
+}
+
+
+
+
+

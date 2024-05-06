@@ -1,0 +1,58 @@
+
+body {
+    font-family: verdana;
+    background-color: black;
+    
+  }
+
+  .menu_card{
+    color:rgb(187, 141, 141);
+  }
+
+  .container {
+    text-align: center; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .box {
+    
+    text-align: left;
+    display: inline-block;
+    width: auto; 
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(230, 213, 213); 
+    margin: 5px; /* spacing between divs */
+  }
+
+  h1,h2{
+    text-align: center;
+    color:rgb(187, 141, 141);
+  }
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: black;
+    color:rgb(187, 141, 141);
+    width: 200px;
+    margin: auto; /* Center the dropdown box */
+    display: block;
+  }
+  
+  /* Styling for the dropdown options */
+  option {
+    padding: 10px;
+    font-size: 16px;
+    background-color: black; /* Dark background color */
+    color:rgb(187, 141, 141);
+  }
+
+  .dropdown_div{
+    text-align: center;
+  }

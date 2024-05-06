@@ -1,0 +1,43 @@
+
+body {
+    font-family: verdana;
+    background-color: black;
+    
+  }
+
+  h1,h2{
+    text-align: center;
+  }
+
+.container {
+    text-align: center; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .box {
+    
+    text-align: left;
+    display: inline-block;
+    width: auto; 
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(230, 213, 213); 
+    margin: 5px; /* spacing between divs */
+  }
+
+  .arr_items{
+     display: inline-block;    
+  }
+
+  ul.appetizer{
+    list-style-type: circle;
+  }
+
+  .menu_card{
+    color:rgb(187, 141, 141);
+  }
+
+ 

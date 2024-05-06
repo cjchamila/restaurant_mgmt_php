@@ -1,0 +1,12 @@
+{
+"config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "platform": {
+        "php": "8.2.4"
+    }
+},
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
