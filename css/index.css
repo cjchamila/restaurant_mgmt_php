@@ -25,10 +25,10 @@ body {
     font-weight: bold; 
     }
 
-.page-links ul li a:hover {
-    background-color: #9c77f1;
+/* .page-links ul li a:hover {
+    background-color: #ddd;
     color: orange; 
-}
+} */
 
 h1 {
     color: blue;
