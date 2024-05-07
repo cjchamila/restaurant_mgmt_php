@@ -17,11 +17,11 @@
 
 <div class="page-links">
   <ul>
-    <li><a href="http://my-restaurant.com/pages/restaurant_reservation.php">New Reservation</a></li>
-    <li><a href="http://my-restaurant.com/pages/menu_items.php">Browse Menu Items</a></li>
-    <li><a href="http://my-restaurant.com/pages/menu_items_filter.php">Browse Menu Items by Category</a></li>
-    <li><a href="http://my-restaurant.com/pages/reservation_management.php">Manage Reservations</a></li>
-    <li><a href="http://my-restaurant.com/pages/contact_form.php">Contact us</a></li>
+    <li><a href="http://www.my-restaurant.com/pages/restaurant_reservation.php">New Reservation</a></li>
+    <li><a href="http://www.my-restaurant.com/pages/menu_items.php">Browse Menu Items</a></li>
+    <li><a href="http://www.my-restaurant.com/pages/menu_items_filter.php">Browse Menu Items by Category</a></li>
+    <li><a href="http://www.my-restaurant.com/pages/reservation_management.php">Manage Reservations</a></li>
+    <li><a href="http://www.my-restaurant.com/pages/contact_form.php">Contact us</a></li>
   </ul>
 </div>
 </body>
